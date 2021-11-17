@@ -1,0 +1,110 @@
+Room 0: Start
+My eyes open and I find myself laying on a cold floor. The room is musty and a faint mist surrounds me.
+A low growl can be heard echoing from the walls. It sounds far.
+On the ground next to me is a sword. I know this sword. My father gave it to me when I learned to fight.
+Slowly, I collect myself and get to my feet. Before me there is a dimly lit hallway along with a closed door.
+
+Room 1: Start room
+This is the room I woke up in. There is a dimly lit hallway and a door connecting to this room.
+
+Room 2: Hallway
+I enter the dimly lit hallway. The floor boards creak under the pressure my feet exert. A large window allows the 
+moonlight into the hallway. Standing by the window is a cloaked figure. As I approached, the figure spoke to me. 
+It sounds like an old woman.
+"You are lucky to be alive, child. The beast doesn't usually keep prisoners. You must be special."
+I can't remember exactly what the monster looked like, but I know it was big and strong.
+"Others have come before you, but none have escaped. Maybe the remnants of those have cluses to escape."
+I thanked the woman for her advice and continue down the hallway. It opens to another hallway going left or right.
+
+Room 3: Door
+I open the door and find a foyer. There is a stairwell and a door just past it. On the ground under the stairs,
+I see a pile of bones along with a bag. 
+
+Room 4: Check bones
+I examined the bones. They appear to be old, they must have been sitting here for a long time. This poor soul
+is long dead. I open his bag and inside I find a journal. 
+"The beast has me now. If only I could break down the front door. But the monster will hear."
+"I need something to make a loud sound, to distract him. I also need something I can use as a battering ram."
+"Hopefully I can find them before it's too late..."
+Poor soul wanted to escape. His plan appears sound, but he wasn't able to find what he needed.
+
+Room 5: Door
+I walk past the stairs into the room. This appears to be a kitchen of sorts. There are some cabinets along the wall.
+At the back of the room is a door leading to another hallway, as well as a closet.
+
+Room 6: Check the Cabinets
+I open a few of the cabinets and find what appears to be an oven timer. It looks forlorn. I take it with me.
+Maybe I could use it if I ever needed to make a sound.
+
+Room 7: Check the Closet
+I open the closet and find a crowbar leaning against the wall. It looks useful. I take it with me.
+
+Room 8: The hallway
+This is a dusty hallway. There's a door that leads to what looks like a kitchen, another door at the other end appears
+to lead upstairs. There is a joining hallway, dimly lit. 
+
+Room 9: Upstairs from Bones
+I go up the stairs. At the top of the stairs is what looks like a study. The room is filled with 
+book shelves and has a desk and chair. On the chair are the remains of another victim. To the left of the room
+is an iron door. The loud growling seems to be emanating from that room, I think the monster may be behind the door.
+On the other side of the room is a doorway that leads into a larger room.
+
+Room 10: Examine body
+I approach the other victim. This pile of bones appears to have been resting here for a long time.
+The book has a scrawled note tucked under one of the pages. I pick it up carefully and read. It appears to be an escape plan.
+"If only there was some way for me to break out. If only I had a rope and something to pry the window open."
+It appears he was trying to but out, but something got to him before it was too late.
+
+Room 11: Open The Iron Door
+I clutch the sword my father gave to me. Slowly I open the door and see the beast before me. A large dragon. It roars as
+I step into the room. I charge at the beast, my sword raised. It opens its mouth and a wall of flames engulfs me. Everything
+is hot, before all of a sudden it becomes very cold.
+
+Room 12: The Ballroom
+I walk away from the study into the larger room. It appears to be a ballroom of sorts. There's a few decorations hanging 
+from the ceiling. On the other side of the room is a another door. 
+
+Room 13: Examine decorations
+There is a makeshift disco ball hanging from the ceiling. The ball is being suspended with some rope.
+There appears to be quite a bit of rope. I decide to take it with me, never know when rope could come in handy.
+
+Room 14: Top of Stairwell
+This door leads into the top of a stairwell. Stairs lead down into what appears to be a hallway. To my right it a door
+going into what looks like a bedroom. At the top of the stairs is a skeleton that appears to be reaching for a bag.
+
+Room 15: Examine the body
+I go through the body the old pile of bones is reaching for. Inside is a hastily written note that reads: 
+"Beast weakness. Library. Green book."
+It seems that this poor soul was trying to find a weakness for the monster.
+It looks like he may have found something, in a library.
+
+Room 16: The bedroom
+The bedroom is torn apart and tattered. A wall pannel has been ripped off revealing a crawlspace.
+It appears to lead back downstairs, to the room I woke up in. But I don't think I could use it to get back to the bedroom.
+
+Room 17: Examine the bedroom
+The bed is rather broken. On the ground next to the remnants is a pole. It looks as though that pole was once 
+part of the bedframe. It looks like it could be a good battering ram.
+
+Room 18: The library Hidden Room
+I found a green book that appears to be slightly out of place. Pulling it opened a hidden passage behind one of the
+bookshelves. I walk inside and find a shield leaning on the wall. I pick it up and can feel the magic flowing through it.
+
+Room 19: Iron Door
+I clutch the sword my father gave to me. Slowly I open the door and see the beast before me. A large dragon. It roars as
+I step into the room. I charge at the beast, my sword raised. It opens its mouth and a wall of flames engulfs me. I lift
+the shield I found in the library and the flames dissipate. I charge at the stunned dragon and slash at him with my sword, 
+cutting his head off. All is still and quiet. I have won.
+
+Room 20: Through the Window
+The large window is overlooking the ground below. Using the crowbar, I was able to pry open the window. 
+The woman in the hallway held the rope for me as I climbed down. Once my feet hit the ground, I ran away as fast as I could
+not looking back.
+
+Room 21: Use battering ram
+I charge at the door with my bed pole. The door bursts open making a large sound. I hear a roar from inside the house.
+Before I can react, the beast grabs me and everything goes dark.
+
+Room 22: Use battering ram and timer
+Before charging the door, I set the timer in the kitchen. Once I leave the room, the timer goes off and I hear the beast rush
+into that room. I charge the door and knock it open, running as far from the house as I could.

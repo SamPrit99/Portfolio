@@ -1,0 +1,16 @@
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.exe
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.deps.json
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.runtimeconfig.json
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.runtimeconfig.dev.json
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.dll
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.pdb
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.csprojAssemblyReference.cache
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.Bankers.resources
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.csproj.GenerateResource.cache
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.AssemblyInfoInputs.cache
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.AssemblyInfo.cs
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.csproj.CoreCompileInputs.cache
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.dll
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.pdb
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\obj\Debug\netcoreapp3.1\Samantha_Prichard_Bankers.genruntimeconfig.cache
+D:\Spring 2021 Classes\CIS 355 Operating Systems\Samantha_Prichard_Bankers\Samantha_Prichard_Bankers\bin\Debug\netcoreapp3.1\data.txt

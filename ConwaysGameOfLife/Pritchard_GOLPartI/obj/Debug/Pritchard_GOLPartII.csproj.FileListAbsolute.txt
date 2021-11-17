@@ -1,0 +1,10 @@
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\bin\Debug\Pritchard_GOLPartI.exe.config
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\bin\Debug\Pritchard_GOLPartI.exe
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\bin\Debug\Pritchard_GOLPartI.pdb
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartII.csprojAssemblyReference.cache
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartI.Pritchard_GOL.resources
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartI.Properties.Resources.resources
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartII.csproj.GenerateResource.cache
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartII.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartI.exe
+D:\VisualStudio\Pritchard_GOLPartI\Pritchard_GOLPartI\obj\Debug\Pritchard_GOLPartI.pdb

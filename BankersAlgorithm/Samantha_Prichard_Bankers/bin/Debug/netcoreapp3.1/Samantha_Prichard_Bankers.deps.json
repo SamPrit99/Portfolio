@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Samantha_Prichard_Bankers/1.0.0": {
+        "runtime": {
+          "Samantha_Prichard_Bankers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Samantha_Prichard_Bankers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
